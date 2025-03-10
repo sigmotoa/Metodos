@@ -49,7 +49,7 @@ En el presente ejemplo se proponen 8 pasos para el desarrollo. Al llegar al paso
 se termina la ejecución el método, o si se itera desde el paso 4. 
 
 ### **Definir las ecuaciones**
-Las ecuaciones del sistema se plantean en términos de las corrientes $ I_1, I_2 $ y el de voltaje de diodo $ V_D $:
+Las ecuaciones del sistema se plantean en términos de las corrientes $I_1, I_2$ y el de voltaje de diodo $V_D$:
 
 $$ I_1 = I_{s1} \left( e^{V_D / V_T} - 1 \right) $$
 $$ I_2 = I_{s2} \left( e^{V_D / V_T} - 1 \right) $$
