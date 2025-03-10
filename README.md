@@ -250,7 +250,7 @@ $$ d \approx 0.905 $$
 ### **Paso 8: Repetición hasta convergencia**
 Es valido tener un criterio de parada, bien sea por cantidad de iteraciones o por una tolerancia.
 En este caso se propone usar una tolerancia en la distancia de forma que se itera hasta:
-\($$ d < 10^{-6} $$
+$$ d < 10^{-6} $$
 
 Con el valor de $d$ que se tiene, se hace necesario retornar al paso 4 y continuar iterando.
 
